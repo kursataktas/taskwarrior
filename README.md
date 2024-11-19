@@ -6,6 +6,7 @@
 [![Release](https://img.shields.io/github/v/release/GothenburgBitFactory/taskwarrior)](https://github.com/GothenburgBitFactory/taskwarrior/releases/latest)
 [![Release date](https://img.shields.io/github/release-date/GothenburgBitFactory/taskwarrior)](https://github.com/GothenburgBitFactory/taskwarrior/releases/latest)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/GothenburgBitFactory?color=green)](https://github.com/sponsors/GothenburgBitFactory/)
+[![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20Taskwarrior%20Guru-006BFF)](https://gurubase.io/g/taskwarrior)
 </br>
 </div>
 
@@ -23,7 +24,7 @@ extensions](https://taskwarrior.org/tools/).
 [![Arch](https://img.shields.io/archlinux/v/extra/x86_64/task)](https://archlinux.org/packages/extra/x86_64/task/)
 [![Debian](https://img.shields.io/debian/v/task/testing)](https://packages.debian.org/search?keywords=task&searchon=names&suite=all&section=all)
 [![Fedora](https://img.shields.io/fedora/v/task)](https://bodhi.fedoraproject.org/updates/?packages=task)
-[![Homebrew](https://img.shields.io/homebrew/v/task)](https://formulae.brew.sh/formula/task#default)
+[![Ubuntu](https://img.shields.io/ubuntu/v/task)](https://packages.ubuntu.com/search?keywords=task&searchon=names&suite=hirsute§ion=all)
 [![Ubuntu](https://img.shields.io/ubuntu/v/task)](https://packages.ubuntu.com/search?keywords=task&searchon=names&suite=hirsute&section=all)
 
 Taskwarrior is packaged on a wide range of [Linux/Unix systems, Mac OS and
