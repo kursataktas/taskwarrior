@@ -24,7 +24,7 @@ extensions](https://taskwarrior.org/tools/).
 [![Arch](https://img.shields.io/archlinux/v/extra/x86_64/task)](https://archlinux.org/packages/extra/x86_64/task/)
 [![Debian](https://img.shields.io/debian/v/task/testing)](https://packages.debian.org/search?keywords=task&searchon=names&suite=all&section=all)
 [![Fedora](https://img.shields.io/fedora/v/task)](https://bodhi.fedoraproject.org/updates/?packages=task)
-[![Ubuntu](https://img.shields.io/ubuntu/v/task)](https://packages.ubuntu.com/search?keywords=task&searchon=names&suite=hirsute§ion=all)
+[![Homebrew](https://img.shields.io/homebrew/v/task)](https://formulae.brew.sh/formula/task#default)
 [![Ubuntu](https://img.shields.io/ubuntu/v/task)](https://packages.ubuntu.com/search?keywords=task&searchon=names&suite=hirsute&section=all)
 
 Taskwarrior is packaged on a wide range of [Linux/Unix systems, Mac OS and
